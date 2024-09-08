@@ -163,43 +163,49 @@ Each task will be aligned to one or more course outcomes. You will receive a sep
       <td colspan = '3'><b>Spring Semester</b></td>
     </tr>
     <tr>
-      <td><b>Unit 6:</b> Complex Conditionals, More Events, and Libraries</td>
+      <td><b>Unit 6:</b> Modules and Packages</td>
       <td>Tuesday, January 28th 2025<br>-<br>Friday, February 28th 2025</td>
-      <td><b><u>Creative Development:</u></b> The Iterative Development Process, Collaborative Approaches to Software Development, Flow Charts, Sub-goal Labels, Code Tracing, Testing, and Debugging.<br><br>
-      <b><u>Algorithms and Programming:</u></b> Functions, Parameters, Arguments, Returns, Nesting, and Libraries.<br><br>
-      <b><u>CMU Graphics:</u></b> Key Events, Step Events, and Animation.<br><br>
-      <b><u>Create PT Prep:</u></b> 1 – Program Code, 2 – Video, 3.a – Purpose, Functionality, Inputs / Outputs, 3.b – Lists, 3.c – Procedures (Definition, Call, General Description, Contribution to Program Purpose, and Detailed Description), 3.d – Procedures (Calls, Conditions, Results).
+      <td><b><u>Programming:</u></b> Purpose and Structure of Modules and Packages, Built-in Modules, User-defined Modules, and PIP.<br><br>
+      <b><u>Software Development:</u></b> Using Flowcharts, KtS, Sub-goal labels, Testing, and Appropriate Tools to Develop Programs.<br><br>
+      <b><u>Communication: </u></b>Code Comments and Utilizing / Creating Reference Materials.<br><br>
+      <b><u>College and Career Competencies: </u></b>Maintaining a Digital Portfolio.
     </tr>
     <tr>
-      <td><b>Unit 7:</b> Cybersecurity and Global Impacts</td>
+      <td><b>Unit 7:</b> Characters and Strings</td>
       <td>Monday, March 3rd 2025<br>-<br>Tuesday, March 18th 2025</td>
-      <td><b><u>Creative Development:</u></b> he Iterative Development Process.<br><br>
-      <b><u>Impact of Computing:</u></b> Computing Innovations, Digital Privacy, Security Risks, and Protecting Personal Data.
+      <td><b><u>Programming:</u></b> The Nature of Characters and Strings, Data Storage, Encoding, String Indices, Slices, Operators, Functions, Methods, and Sorting.<br><br>
+      <b><u>Software Development:</u></b> Using Flowcharts, KtS, Sub-goal labels, Testing, and Appropriate Tools to Develop Programs.<br><br>
+      <b><u>Communication: </u></b>Code Comments and Utilizing / Creating Reference Materials.<br><br>
+      <b><u>College and Career Competencies: </u></b>Maintaining a Digital Portfolio.
     </tr>
     <tr>
-      <td><b>Unit 8:</b> Algorithms and the Create Performance Task</td>
+      <td><b>Unit 8:</b> Exceptions</td>
       <td>Wednesday, March 19th 2025<br>-<br>Wednesday, April 30th 2025</td>
-      <td><b><u>Creative Development:</u></b> The Iterative Development Process, Collaborative Approaches to Software Development, Flow Charts, Sub-goal Labels, Code Tracing, Testing, and Debugging.<br><br>
-      <b><u>Algorithms and Programming:</u></b> Analyzing Algorithms, Algorithmic Efficiency, Reasonable Run Time, Parallel and Distributed Computing, and the Limits of Algorithms.<br><br>
-      <b><u>Create PT Prep:</u></b> 1 – Program Code, 2 – Video, 3.a – Purpose, Functionality, Inputs / Outputs, 3.b – Lists, 3.c – Procedures (Definition, Call, General Description, Contribution to Program Purpose, and        Detailed Description), 3.d – Procedures (Calls, Conditions, Results).<br><br>
-      <i>Note: This unit includes 9 Hours of dedicated class time for students to work on the Create Performance Task.</i>
+      <td><b><u>Programming:</u></b> Re-visiting Errors, Exceptions, and the Python Built-in Exception Hierarchy, Raising Exceptions, and the assert Keyword.<br><br>
+      <b><u>Software Development:</u></b> Re-visiting Flowcharts, KtS (Keys to Success), Sub-goal labels, Testing (including edge cases), and Selecting Software Development Tools.<br><br>
+      <b><u>Communication: </u></b>Code Comments.<br><br>
+      <b><u>College and Career Competencies: </u></b>Maintaining a Digital Portfolio.
     </tr>
     <tr>
-      <td colspan='3'><b>Create Performance Task Due: Wednesday, April 30th 2025 at 11:59 PM</b></td>
-    </tr>
-    <tr>
-      <td><b>Unit 9:</b> AP Exam Prep</td>
+      <td><b>Unit 9:</b> Object-Oriented Programming</td>
       <td>Thursday, May 1st 2025<br>-<br>Wednesday, May 14th 2025</td>
-      <td>This unit serves as a two-week-long review of all topics, concepts, standards, and objectives covered in AP Computer Science Principles with emphasis on preparing for the AP Exam.
+      <td><b><u>Programming:</u></b> Procedural vs. Object-Oriented Approaches to Programming, Classes, Objects, Inheritance, Attributes, Methods, Class Variables, Instance Variables, and Exceptions as Classes, and Creating Exception.<br><br>
+      <b><u>Software Development:</u></b> Re-visiting Flowcharts, KtS (Keys to Success), Sub-goal labels, Testing (including edge cases), and Selecting Software Development Tools.<br><br>
+      <b><u>Communication: </u></b>Code Comments.<br><br>
+      <b><u>College and Career Competencies: </u></b>Maintaining a Digital Portfolio.
+    </tr>
+   <tr>
+      <td><b>Unit 10:</b>Advanced Python Programming Topics</td>
+      <td>Thursday, May 1st 2025<br>-<br>Wednesday, May 14th 2025</td>
+      <td><b><u>Programming:</u></b> Generators, Iterators, Closures, Lambda Functions, File Processing, and Input / Output Operations.<br><br>
+      <b><u>Software Development:</u></b> Using Flowcharts, KtS, Sub-goal labels, Testing, and Appropriate Tools to Develop Programs.<br><br>
+      <b><u>Communication: </u></b>Code Comments.<br><br>
+      <b><u>College and Career Competencies: </u></b>Maintaining a Digital Portfolio.
     </tr>
     <tr>
-      <td colspan='3'><b>AP Exam: Thursday, May 15th 2025 at 12:00 PM</b></td>
-    </tr>
-    <tr>
-      <td><b>Unit 10:</b> Culminating Project</td>
-      <td>Friday, May 16th 2025<br>-<br>Monday, June 16th 2025</td>
-      <td><b><u>Description:</u></b> For this project, you will work in groups, applying and extending what you have learned in AP Computer Science Principles 1 and 2 by completing a culminating project. In your culminating projects, you will research a topic in Computer Science or a related field and create an artifact reflective of what you have learned. The artifact may take the form of a report, a video, a digital presentation, a program they have coded, a physical device, etc. You may select from a given list of topics or you may select your own topic in consultation with the course instructor.<br><br>
-        <b>Sample Topic Choices:</b> Applying Computational Thinking Skills to Cloud Computing and Desktop Applications, Autonomous Vehicles, Machine Learning/AI, Big Data, Boolean Algebra/Logic Gates, Coding for a Cause, Computer Science and the Environment, Cryptocurrency, Data Visualization, Encryption Algorithms, Ethical Hacking, Exploring a New Ethical Issue Related to Computer Science, Exploring a New Programming Language, Exploring the Relationship between Computer Science and a Specific Career Field, Learning a New Set of Programming Skills, and Physical Computing / Robotics.
+      <td><b>Unit 11:</b> PCAP Exam Prep</td>
+      <td>Thursday, January 2nd 2024<br>-<br>Friday, January 17th 2024</td>
+      <td>This unit serves as a week-long review of all topics, concepts, standards, and objectives covered in units 6 – 10.<br><br><b>Note:</b> The PCAP Exam will be scheduled as part of June Regents Week (Tuesday, January 17th – Wednesday, June 25th)
     </tr>
   </tbody>
 </table>
