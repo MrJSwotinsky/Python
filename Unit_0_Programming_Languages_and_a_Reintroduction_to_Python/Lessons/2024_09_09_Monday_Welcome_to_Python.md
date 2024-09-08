@@ -32,3 +32,5 @@ Monday, September 9th 2024
 6. Check for Understanding
 
 **HOMEWORK:** 
+1. [Unit 0 Assignment 01](https://github.com/MrJSwotinsky/Python/blob/main/Unit_0_Programming_Languages_and_a_Reintroduction_to_Python/Daily_Assignments/Unit_0_Assignment_01_Due_Fri_Sept_6_Create_and_Share_Repo.md)
+2. [Unit 0 Assignment 02](https://github.com/MrJSwotinsky/Python/blob/main/Unit_0_Programming_Languages_and_a_Reintroduction_to_Python/Daily_Assignments/Unit_0_Assignment_02_Due_Mon_Sept_9_OpenEDG_Registration.md)
