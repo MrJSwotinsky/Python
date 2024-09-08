@@ -164,7 +164,7 @@ Each task will be aligned to one or more course outcomes. You will receive a sep
     </tr>
     <tr>
       <td><b>Unit 6:</b> Modules and Packages</td>
-      <td>Tuesday, January 28th 2025<br>-<br>Friday, February 28th 2025</td>
+      <td>Tuesday, January 28th 2025<br>-<br>Friday, February 14th 2025</td>
       <td><b><u>Programming:</u></b> Purpose and Structure of Modules and Packages, Built-in Modules, User-defined Modules, and PIP.<br><br>
       <b><u>Software Development:</u></b> Using Flowcharts, KtS, Sub-goal labels, Testing, and Appropriate Tools to Develop Programs.<br><br>
       <b><u>Communication: </u></b>Code Comments and Utilizing / Creating Reference Materials.<br><br>
@@ -172,7 +172,7 @@ Each task will be aligned to one or more course outcomes. You will receive a sep
     </tr>
     <tr>
       <td><b>Unit 7:</b> Characters and Strings</td>
-      <td>Monday, March 3rd 2025<br>-<br>Tuesday, March 18th 2025</td>
+      <td>Monday, February 24th 2025<br>-<br>Friday, March 7th 2025</td>
       <td><b><u>Programming:</u></b> The Nature of Characters and Strings, Data Storage, Encoding, String Indices, Slices, Operators, Functions, Methods, and Sorting.<br><br>
       <b><u>Software Development:</u></b> Using Flowcharts, KtS, Sub-goal labels, Testing, and Appropriate Tools to Develop Programs.<br><br>
       <b><u>Communication: </u></b>Code Comments and Utilizing / Creating Reference Materials.<br><br>
@@ -180,7 +180,7 @@ Each task will be aligned to one or more course outcomes. You will receive a sep
     </tr>
     <tr>
       <td><b>Unit 8:</b> Exceptions</td>
-      <td>Wednesday, March 19th 2025<br>-<br>Wednesday, April 30th 2025</td>
+      <td>Monday, March 10th 2025<br>-<br>Wednesday, March 26th 2025</td>
       <td><b><u>Programming:</u></b> Re-visiting Errors, Exceptions, and the Python Built-in Exception Hierarchy, Raising Exceptions, and the assert Keyword.<br><br>
       <b><u>Software Development:</u></b> Re-visiting Flowcharts, KtS (Keys to Success), Sub-goal labels, Testing (including edge cases), and Selecting Software Development Tools.<br><br>
       <b><u>Communication: </u></b>Code Comments.<br><br>
@@ -188,7 +188,7 @@ Each task will be aligned to one or more course outcomes. You will receive a sep
     </tr>
     <tr>
       <td><b>Unit 9:</b> Object-Oriented Programming</td>
-      <td>Thursday, May 1st 2025<br>-<br>Wednesday, May 14th 2025</td>
+      <td>Thursday, March 27th 2025<br>-<br>Wednesday, April 30th 2025</td>
       <td><b><u>Programming:</u></b> Procedural vs. Object-Oriented Approaches to Programming, Classes, Objects, Inheritance, Attributes, Methods, Class Variables, Instance Variables, and Exceptions as Classes, and Creating Exception.<br><br>
       <b><u>Software Development:</u></b> Re-visiting Flowcharts, KtS (Keys to Success), Sub-goal labels, Testing (including edge cases), and Selecting Software Development Tools.<br><br>
       <b><u>Communication: </u></b>Code Comments.<br><br>
@@ -196,7 +196,7 @@ Each task will be aligned to one or more course outcomes. You will receive a sep
     </tr>
    <tr>
       <td><b>Unit 10:</b>Advanced Python Programming Topics</td>
-      <td>Thursday, May 1st 2025<br>-<br>Wednesday, May 14th 2025</td>
+      <td>Thursday, May 1st 2025<br>-<br>Friday, May 30th 2025</td>
       <td><b><u>Programming:</u></b> Generators, Iterators, Closures, Lambda Functions, File Processing, and Input / Output Operations.<br><br>
       <b><u>Software Development:</u></b> Using Flowcharts, KtS, Sub-goal labels, Testing, and Appropriate Tools to Develop Programs.<br><br>
       <b><u>Communication: </u></b>Code Comments.<br><br>
@@ -204,8 +204,8 @@ Each task will be aligned to one or more course outcomes. You will receive a sep
     </tr>
     <tr>
       <td><b>Unit 11:</b> PCAP Exam Prep</td>
-      <td>Thursday, January 2nd 2024<br>-<br>Friday, January 17th 2024</td>
-      <td>This unit serves as a week-long review of all topics, concepts, standards, and objectives covered in units 6 – 10.<br><br><b>Note:</b> The PCAP Exam will be scheduled as part of June Regents Week (Tuesday, January 17th – Wednesday, June 25th)
+      <td>Monday, June 2nd 2024<br>-<br>Monday, June 16th 2024</td>
+      <td>This unit serves as a week-long review of all topics, concepts, standards, and objectives covered in units 6 – 10.<br><br><b>Note:</b> The PCAP Exam will be scheduled as part of June Regents Week (Tuesday, June 17th – Wednesday, June 25th)
     </tr>
   </tbody>
 </table>
