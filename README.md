@@ -117,14 +117,14 @@ Each task will be aligned to one or more course outcomes. You will receive a sep
     </tr>
     <tr>
       <td><b>Unit 0:</b> Programming Languages and a Re-Introduction to Python</td>
-      <td>Thursday, September 5th - Tuesday, October 1st</td>
+      <td>Thursday, September 5th 2024<br>-<br>Wednesday, September 25th 2024</td>
       <td><b><u>Computer Programming Fundamentals:</u></b> Computer Programs, Natural Languages vs. Programming Languages, Compilation vs. Interpretation, High Level vs. Low Level Programming Languages, and Advantages / Disadvantages of Different Types of Programming Languages.<br><br>
       <b><u>Python as a Programming Language:</u></b> History of Python, Python Goals, Characteristics of Python, Advantages & Disadvantages of Python, Implementations of Python, and the Python IDLE.
       </td>
     </tr>
     <tr>
       <td><b>Unit 1:</b> Re-visiting Python Programming Fundamentals</td>
-      <td>Wednesday, October 2nd 2024<br>-<br>Friday, October 18th 2024</td>
+      <td>Thursday, September 26th 2024<br>-<br>Wednesday, October 16th 2024</td>
       <td><b><u>Programming:</u></b> Input/Output, Parameters/ print( ) Function Parameters and Arguments (Positional and Keyword), Print Formatting, Escape Characters, Literals (Numeric Types and Strings, Variables, Booleans, Operations, Binding, and Type Casting.<br><br>
       <b><u>Software Development:</u></b> Testing (including edge cases).<br><br>
       <b><u>Communication:</u></b> Code Comments.<br><br>
@@ -132,7 +132,7 @@ Each task will be aligned to one or more course outcomes. You will receive a sep
     </tr>
     <tr>
       <td><b>Unit 2:</b> Control Flow</td>
-      <td>Monday, October 21st 2024<br>-<br>Monday, November 4th 2024</td>
+      <td>Thursday, October 17th 2024<br>-<br>Monday, November 4th 2024</td>
       <td><b><u>Programming: </u></b> Booleans, Conditionals, Nested Conditionals, Loops, Nested Loops, Other Forms of Nesting, and Break & Continue Commands, Bitwise Operators, and Binary Shifts.<br><br>
       <b><u>Software Development: </u></b> SRe-visiting Flowcharts, Code Tracing, Sub-goal Labels, Testing (including edge cases), and Selecting Software Development Tools.<br><br>
       <b><u>Communication:</u></b> Code Comments.<br><br>
@@ -140,7 +140,7 @@ Each task will be aligned to one or more course outcomes. You will receive a sep
     </tr>
     <tr>
       <td><b>Unit 3:</b> Data Collections</td>
-      <td>Wednesday, November 6th 2024<br>-<br>Wednesday, December 4th 2024</td>
+      <td>Wednesday, November 6th 2024<br>-<br>Wednesday, November 27th 2024</td>
       <td><b><u>Programming:</u></b> Lists, Memory Storage of Lists, List Indexing (including negative indices), List Slices, Operations on Lists, List Functions and Methods, Iterating over Lists, List Comprehension, Sorting, Two-Dimensional Lists, Dictionaries, and Tuples.<br><br>
       <b><u>Software Development:</u></b> Using Flowcharts, KtS, Sub-goal labels, Testing, and Appropriate Tools to Develop Programs.<br><br>
       <b><u>Communication:</u></b> Code Comments.<br><br>
@@ -148,7 +148,7 @@ Each task will be aligned to one or more course outcomes. You will receive a sep
     </tr>
     <tr>
       <td><b>Unit 4:</b> Functions and Exception Handling</td>
-      <td>Thursday, December 5th 2024<br>-<br>Friday, December 20th 2024</td>
+      <td>Monday, December 2nd 2024<br>-<br>Friday, January 10th 2025</td>
       <td><b><u>Programming:</u></b> Built-in Functions, User-defined Functions, Function Calls, Parameters & Arguments (including positional & keyword methods of passing arguments to parameters as well as default parameters), Returns, The None Value, Scope, Recursion, Syntax Errors, Runtime Errors, Logic Errors, Exceptions, Types of Exceptions, The Python Built-in Exception Hierarchy, Exception Handling, Testing, and Debugging. <br><br>
       <b><u>Software Development:</u></b> Using Flowcharts, KtS, Sub-goal labels, Testing, and Appropriate Tools to Develop Programs.<br><br>
       <b><u>Communication:</u></b> Code Comments.<br><br>
@@ -156,7 +156,7 @@ Each task will be aligned to one or more course outcomes. You will receive a sep
     </tr>
     <tr>
       <td><b>Unit 5:</b> PCEP Exam Prep</td>
-      <td>Thursday, January 2nd 2024<br>-<br>Friday, January 17th 2024</td>
+      <td>Monday, January 13th 2025<br>-<br>Friday, January 17th 2025</td>
       <td>This unit serves as a week-long review of all topics, concepts, standards, and objectives covered in units 0 – 4.<br><br><b>Note:</b> The PCEP Exam will be scheduled as part of January Regents Week (Tuesday, January 21st – Friday, January 24th)
     </tr>
     <tr>
