@@ -27,9 +27,10 @@ Monday, September 9th 2024
 1. Welcome Back
 2. Navigating Our Digital Classroom
 3. Personal Device Policy
-4. Syllabus Review
-5. How Computers Work...The Basics
-6. Check for Understanding
+4. A Note About Notes
+5. Syllabus Review
+6. How Computers Work...The Basics
+7. Check for Understanding
 
 **HOMEWORK:** 
 1. [Unit 0 Assignment 01](https://github.com/MrJSwotinsky/Python/blob/main/Unit_0_Programming_Languages_and_a_Reintroduction_to_Python/Daily_Assignments/Unit_0_Assignment_01_Due_Fri_Sept_6_Create_and_Share_Repo.md)
