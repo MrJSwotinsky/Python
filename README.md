@@ -116,47 +116,48 @@ Each task will be aligned to one or more course outcomes. You will receive a sep
       <td colspan = '3'><b>Fall Semester</b></td>
     </tr>
     <tr>
-      <td><b>Unit 0:</b> Digital Information</td>
+      <td><b>Unit 0:</b> Programming Languages and a Re-Introduction to Python</td>
       <td>Thursday, September 5th - Tuesday, October 1st</td>
-      <td><b><u>Data:</u></b> Representing Information, Binary Numbers, Overflow & Rounding, and Compression<br><br>
-      <b><u>Impact of Computing:</u></b> Intellectual Property, and Impact of Digitizing Information.
+      <td><b><u>Computer Programming Fundamentals:</u></b> Computer Programs, Natural Languages vs. Programming Languages, Compilation vs. Interpretation, High Level vs. Low Level Programming Languages, and Advantages / Disadvantages of Different Types of Programming Languages.<br><br>
+      <b><u>Python as a Programming Language:</u></b> History of Python, Python Goals, Characteristics of Python, Advantages & Disadvantages of Python, Implementations of Python, and the Python IDLE.
       </td>
     </tr>
     <tr>
-      <td><b>Unit 1:</b> The Internet</td>
+      <td><b>Unit 1:</b> Re-visiting Python Programming Fundamentals</td>
       <td>Wednesday, October 2nd 2024<br>-<br>Friday, October 18th 2024</td>
-      <td><b><u>Computer Systems and Networks:</u></b> Networks, The Internet, Transmitting Data Over a Network, Protocols, Addressing, Fault Tolerance, and The Internet.<br><br>
-      <b><u>Impact of Computing:</u></b> Internet Dilemmas (Net Neutrality, Censorship, and the Digital Divide).
+      <td><b><u>Programming:</u></b> Input/Output, Parameters/ print( ) Function Parameters and Arguments (Positional and Keyword), Print Formatting, Escape Characters, Literals (Numeric Types and Strings, Variables, Booleans, Operations, Binding, and Type Casting.<br><br>
+      <b><u>Software Development:</u></b> Testing (including edge cases).<br><br>
+      <b><u>Communication:</u></b> Code Comments.<br><br>
+      <b><u>College and Career Competencies:</u></b> Setting up a GitHub Account to Host a Digital Portfolio.
     </tr>
     <tr>
-      <td><b>Unit 2:</b> Introduction to CMU Graphics</td>
+      <td><b>Unit 2:</b> Control Flow</td>
       <td>Monday, October 21st 2024<br>-<br>Monday, November 4th 2024</td>
-      <td><b><u>Creative Development:</u></b> The Iterative Development Process, Collaborative Approaches to Software Development, Flow Charts, Sub-goal Labels, Code Tracing, Testing, and Debugging.<br><br>
-      <b><u>Algorithms and Programming:</u></b> Sequencing / Selection / Iteration, Strings, and Output.<br><br>
-      <b><u>CMU Graphics:</u></b> The CMU Canvas, Drawing Shapes, Drawing Images, and Labels.<br><br>
-      <b><u>Create PT Prep:</u></b> 3.a – Purpose, Functionality, Inputs/Outputs (outputs only).
+      <td><b><u>Programming: </u></b> Booleans, Conditionals, Nested Conditionals, Loops, Nested Loops, Other Forms of Nesting, and Break & Continue Commands, Bitwise Operators, and Binary Shifts.<br><br>
+      <b><u>Software Development: </u></b> SRe-visiting Flowcharts, Code Tracing, Sub-goal Labels, Testing (including edge cases), and Selecting Software Development Tools.<br><br>
+      <b><u>Communication:</u></b> Code Comments.<br><br>
+      <b><u>College and Career Competencies: </u></b>Maintaining a Digital Portfolio.
     </tr>
     <tr>
-      <td><b>Unit 3:</b> Functions, Mouse Events, and Conditionals</td>
+      <td><b>Unit 3:</b> Data Collections</td>
       <td>Wednesday, November 6th 2024<br>-<br>Wednesday, December 4th 2024</td>
-      <td><b><u>Creative Development:</u></b> The Iterative Development Process, Collaborative Approaches to Software Development, Flow Charts, Sub-goal Labels, Code Tracing, Testing, and Debugging.<br><br>
-      <b><u>Algorithms and Programming:</u></b> Input/Output, Variables/Assignment, Mathematical Expressions, Booleans, Conditionals, and Functions, and Event Handling.<br><br>
-      <b><u>CMU Graphics:</u></b> The CMU Console, Print Statements, Mouse Events, and Shape Properties, and Shape Methods.<br><br>
-      <b><u>Create PT Prep:</u></b> 2 – Video, 3.a – Purpose, Functionality, Inputs / Outputs (outputs only), 3.c – Procedures (Definition, Call, General Description, Contribution to Program Purpose, and Detailed Description).
+      <td><b><u>Programming:</u></b> Lists, Memory Storage of Lists, List Indexing (including negative indices), List Slices, Operations on Lists, List Functions and Methods, Iterating over Lists, List Comprehension, Sorting, Two-Dimensional Lists, Dictionaries, and Tuples.<br><br>
+      <b><u>Software Development:</u></b> Using Flowcharts, KtS, Sub-goal labels, Testing, and Appropriate Tools to Develop Programs.<br><br>
+      <b><u>Communication:</u></b> Code Comments.<br><br>
+      <b><u>College and Career Competencies: </u></b>Maintaining a Digital Portfolio.
     </tr>
     <tr>
-      <td><b>Unit 4:</b> Data</td>
+      <td><b>Unit 4:</b> Functions and Exception Handling</td>
       <td>Thursday, December 5th 2024<br>-<br>Friday, December 20th 2024</td>
-      <td><b><u>Data:</u></b> Data, Metadata, Data Visualization, Filtering/Cleaning Data, and Letting Data Tell a Story.<br><br>
-      <b><u>Impact of Computing:</u></b> Crowdsourcing, Algorithmic Bias, and Machine Learning.
+      <td><b><u>Programming:</u></b> Built-in Functions, User-defined Functions, Function Calls, Parameters & Arguments (including positional & keyword methods of passing arguments to parameters as well as default parameters), Returns, The None Value, Scope, Recursion, Syntax Errors, Runtime Errors, Logic Errors, Exceptions, Types of Exceptions, The Python Built-in Exception Hierarchy, Exception Handling, Testing, and Debugging. <br><br>
+      <b><u>Software Development:</u></b> Using Flowcharts, KtS, Sub-goal labels, Testing, and Appropriate Tools to Develop Programs.<br><br>
+      <b><u>Communication:</u></b> Code Comments.<br><br>
+      <b><u>College and Career Competencies: </u></b>Maintaining a Digital Portfolio.
     </tr>
     <tr>
-      <td><b>Unit 5:</b> Groups, Lists, and Loops</td>
+      <td><b>Unit 5:</b> PCEP Exam Prep</td>
       <td>Thursday, January 2nd 2024<br>-<br>Friday, January 17th 2024</td>
-      <td><b><u>Creative Development:</u></b> The Iterative Development Process, Collaborative Approaches to Software Development, Flow Charts, Sub-goal Labels, Code Tracing, Testing, and Debugging.<br><br>
-      <b><u>Algorithms and Programming:</u></b> Lists, List Methods, and Loops<br><br>
-      <b><u>CMU Graphics:</u></b> Groups, Group Properties, and Group Methods.<br><br>
-      <b><u>Create PT Prep:</u></b> 1 – Program Code, 2 – Video, 3.a – Purpose, Functionality, Inputs / Outputs, 3.b – Lists, 3.c – Procedures (Definition, Call, General Description, Contribution to Program Purpose, and Detailed Description), 3.d – Procedures (Calls, Conditions, Results).
+      <td>This unit serves as a week-long review of all topics, concepts, standards, and objectives covered in units 0 – 4.<br><br><b>Note:</b> The PCEP Exam will be scheduled as part of January Regents Week (Tuesday, January 21st – Friday, January 24th)
     </tr>
     <tr>
       <td colspan = '3'><b>Spring Semester</b></td>
