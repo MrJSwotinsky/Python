@@ -12,7 +12,6 @@ Monday, September 9th 2024
 **SUCCESS CRITERIA:**
 - [ ] I can articulate what Python is all about, what is expected of me as a student, and what strategies I can implement to acheive success this year?
 - [ ] I can demonstrate how to access all course resources (e.g. daily lessons, assignments, projects, etc.)
-- [ ] I can describe at a basic level how a computer works. 
 
 <table>
   <tr>
@@ -29,19 +28,8 @@ Monday, September 9th 2024
 3. Personal Device Policy
 4. A Note About Notes
 5. Syllabus Review
-6. How Computers Work...The Basics
-7. Check for Understanding
+6. Check for Understanding
 
 **HOMEWORK:** 
 1. [Unit 0 Assignment 01](https://github.com/MrJSwotinsky/Python/blob/main/Unit_0_Programming_Languages_and_a_Reintroduction_to_Python/Daily_Assignments/Unit_0_Assignment_01_Due_Fri_Sept_6_Create_and_Share_Repo.md)
 2. [Unit 0 Assignment 02](https://github.com/MrJSwotinsky/Python/blob/main/Unit_0_Programming_Languages_and_a_Reintroduction_to_Python/Daily_Assignments/Unit_0_Assignment_02_Due_Mon_Sept_9_OpenEDG_Registration.md)
-
-## Resources
-
-<table>
-  <tr>
-    <td><b>How Computers Work...The Basics - Key Points:</b><br><br>
-    Text Text Text
-  </tr>
-</table>
-
