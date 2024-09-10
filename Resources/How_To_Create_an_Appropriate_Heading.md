@@ -12,7 +12,7 @@ For example, an appropriate heading for your first written response might look l
 <br>
 
 > ## A. Student - Written Response - Languages and How Computer Programs Work
-> Monday, September 9th 2024
+> Tuesday, September 10th 2024
 
 <br>
 
@@ -20,5 +20,5 @@ The markdown code to create this heading would look like...
 
 ```markdown
 ## A. Student - Written Response - Languages and How Computer Programs Work
-Monday, September 9th 2024
+Tuesday, September 10th 2024
 ```
