@@ -31,7 +31,7 @@ Tuesday, September 10th 2024
 7. Check for Understanding
 
 **HOMEWORK:** 
-1. [Unit 0 Assignment 03](https://github.com/MrJSwotinsky/Python/blob/main/Unit_0_Programming_Languages_and_a_Reintroduction_to_Python/Daily_Assignments/Unit_0_Assignment_03_Due_Tue_Sept_10_OpenEDG_PCEP_1.1.1.1_to_1.1.1.3.md)
+1. [Unit 0 Assignment 03](https://github.com/MrJSwotinsky/Python/blob/main/Unit_0_Programming_Languages_and_a_Reintroduction_to_Python/Daily_Assignments/Unit_0_Assignment_03_Due_Tue_Sept_10_OpenEDG_PCEP_1_1_1_1_to_1_1_1_6.md)
 2. [Unit 0 Assignment 04](https://github.com/MrJSwotinsky/Python/blob/main/Unit_0_Programming_Languages_and_a_Reintroduction_to_Python/Daily_Assignments/Unit_0_Assignment_04_Due_Wed_Sept_11_Written_Response_1_Languages_and_How_Computer_Programs_Work.md)
 
 **RESOURCES:**
