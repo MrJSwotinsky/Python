@@ -1,20 +1,34 @@
 # Unit 0, Project 1: Infographic Project
 Due: Wednesday, September 27th 2024
 
-### In this project you will apply what you have learned abouthow a computer works, languages, compilation vs. interpretation, python history/goals/applications/features/drawbacks/implementations, development environments, and errors/debugging to create an infographic that others can use to learn about programming languages, in particular, Python.
+### In this project, you will apply what you have learned about how a computer works, languages, compilation vs. interpretation, python history/goals/applications/features/drawbacks/implementations, development environments, and errors/debugging by creating a digital infographic that others can use to learn about programming languages, in particular, Python.
 
 ## Requirements
 
-1. Your infographic must address the following topics:
-* How a Computer Works
-* Natural Languages, Programming Languages, and Machine Languages
-* Compilation vs. Interpretation
-* Python History, Goals, Applications, Features, and Drawbacks
-* Python Implemenations
-* Development Environments
+**1. Your digital infographic must address the following topics:**
+* How a Computer Works.
+* Languages.
+* Compilation vs. Interpretation.
+* Python History, Goals, Applications, Features, and Drawbacks.
+* Python Implemenations.
+* Development Environments.
 * Errors and Debugging.
 
-2. 
+**2. Your digital infographic must address each topic in depth.** <br> For example, the section on Languages should not only list parts of a language, types of languages, etc.  It should also describe each part of a language, each type of language, highlight how different types of languages relate to each other, etc.  Your goal in ccompleting this project is to create an infographic that not only serves as a reference tool for yourself, but also as a learning tool for those who follow in your footsteps.
+
+**3.  Your digital infographic should have a professional, visually appealing appearance.**
+
+**4.  Once you have completed your digital infographic, save it as a PDF and upload it to a new folder, titled `Infographic Project` in your GitHub Portfolio.**
+
+**5. Reflect On Your Work**
+
+Upload a written reflection to your infographic project folder on GitHub that includes 5 paragraphs to address the following prompts:
+
+* In your own words, describe this project, its purpose, and what it meant to you.
+* In what ways did this project contribute to your overall learning experience as a Computer Science major.
+* How did you iteratively develop your work on this project over time? (Include specific examples.)
+* Looking back, what might you have done differently?
+* If you were given the opportunity to further develop your work on this project, what would your next steps be?
 
 ## Rubric
 
@@ -31,30 +45,30 @@ Due: Wednesday, September 27th 2024
  </thead>
  <tbody>
   <tr>
-   <td> <b>Computational Thinking</b>
-   <td> All of my binary conversions are correct leading to a digital image that perfectly resembles my original sketch and all of my work is shown making all my thinking visible. </td>
-   <td> Almost all of my binary conversions are correct leading to a digital image that almost perfectly resembles my original sketch and almost all of my work is shown making almost all of my thinking visible. </td>
-   <td> Most of my binary conversions are correct leading to a digital image that mostly resembles my original sketch and most of my work is shown making most of my thinking visible. </td>
-   <td> Some of my binary conversions are correct leading to a digital image that somewhat resembles my original sketch and some of my work is shown making some of my thinking visible. </td>
-   <td> Few to none of my binary conversions are correct leading to a digital image that barely resembles matches my original sketch and little to none of my work is shown making little to none of my thinking visible. </td>
-  </tr>
-  <tr>
-   <td> <b>Communication</b>
-   <td> I have written a thorough and thoughtful reflection that is clear, complete, concise, addresses all prompts, and consistently uses appropriate Computer Science vocabulary and conventions. </td>
-   <td> I have written a reflection that is clear, complete, concise, addresses all prompts, and consistently uses appropriate Computer Science vocabulary and conventions. </td>
-   <td> I have written a reflection that is clear, complete, concise, addresses at least 4 prompts, and for the most part uses appropriate Computer Science vocabulary and conventions. </td>
-   <td> I have written a reflection that is somewhat clear, complete, and concise, addresses at least 3 prompts, and uses some appropriate Computer Science vocabulary and conventions. </td>
-   <td> I have written a reflection that lacks clarity, conciseness, or completeness, addresses 2 or less prompts, or uses few appropriate Computer Science vocabulary and conventions. </td>
+   <td> <b>Characteristics of Python</b>
+   <td> My infographic thoroughly address all topics in a manner that is accurate and demonstrates genuine, in depth understanding. </td>
+   <td> My infographic address almost all topics in a manner that is accurate and demonstrates understanding. </td>
+   <td> My infographic address most topics in a manner that is accurate and demonstrates understanding. </td>
+   <td> My infographic address some topics in a manner that is accurate and demonstrates understanding. </td>
+   <td> My infographic address few to no topics in a manner that is accurate or demonstrates understanding. </td>
   </tr>
   <tr>
    <td> <b>Design Thinking</b>
-   <td> My portfolio reflects iterative development of my work on this project over time.  If revisions were neccesary, my revision process is clearly documented in both the version history of my files and my written reflection. 
+   <td> My portfolio reflects iterative development of my work on this project over time.  My revision process is clearly documented in both the version history of my file and my written reflection. 
  My written reflection thoroughly and thoughtfully describes how I engaged in the iterative development process. </td>
-   <td> My portfolio reflects iterative development of my work on this project.  If revisions were neccesary, my revision process is documented in either the version history of my files or my written reflection. 
- My written reflection describes how I engaged in the iterative development process. </td>
-   <td> My portfolio reflects iterative development of my work on this project and my written reflection references how I engaged in the iterative development process. </td>
-   <td> My portfolio reflects iterative development of my work on this project or my written reflection references how I engaged in the iterative development process.</td>
+   <td> My portfolio reflects iterative development of my work on this project.  My revision process is documented in both the version history of my file and in my written reflection. 
+ My written reflection thoroughly and thoughtfully describes how I engaged in the iterative development process. </td>
+   <td> My portfolio reflects iterative development of my work on this project.  My revision process is referenced in both the version history of my file and in my written reflection. </td>
+   <td> My portfolio reflects iterative development of my work on this project.  My revision process is referenced in the version history of my file or in my written reflection.</td>
    <td> My portfolio does not reflect iterative development of my work on this project and my written reflection does not reflect how I engaged in the iterative development process. </td>
+  </tr>
+  <tr>
+   <td> <b>Communication</b>
+   <td> I have written a thorough and thoughtful reflection that is clear, complete, concise, and addresses all prompts.  Both my infographic and my written reflection consistently use appropriate Computer Science vocabulary and conventions. </td>
+   <td> I have written a reflection that is clear, complete, concise, and addresses all prompts.  Both my infographic and my written reflection consistently use appropriate Computer Science vocabulary and conventions. </td>
+   <td> I have written a reflection that is clear, complete, concise, and addresses at least 4 prompts.  For the most part, both my infographic and my written reflection consistently use appropriate Computer Science vocabulary and conventions. </td>
+   <td> I have written a reflection that is clear, complete, concise, and addresses at least 3 prompts.  Both my infographic and my written reflection use some appropriate Computer Science vocabulary and conventions.</td>
+   <td> I have written a reflection that lacks clarity, conciseness, or completeness, and addresses 2 or less prompts.  Both my infographic and my written reflection use few appropriate Computer Science vocabulary and conventions. </td>
   </tr>
   <tr>
    <td> <b>Employability Skills</b>
