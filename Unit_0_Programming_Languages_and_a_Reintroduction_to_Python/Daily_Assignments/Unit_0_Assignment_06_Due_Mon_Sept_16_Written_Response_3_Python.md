@@ -1,6 +1,13 @@
 # Unit 0, Assignment 06: Written Response 3 - About Python
 Due: Monday, September 16th 2024
 
+## Part 1:
+1. Navigate to https://edube.org
+2. Sign in to your OpenEDG account.
+3. Read Python Essentials 1, Sections 1.1.2.1 - 1.2.1.9
+
+## Part 2:
+
 1. In your `Written Responses` folder, create a new file titled, `LastNameFirstInitial_Written_Response_3_About_Python.md`.
 2. Remember to include an appropriate heading.
 3. Respond to each of the following prompts:
