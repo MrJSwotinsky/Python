@@ -7,7 +7,7 @@ Due: Monday, September 23rd 2024
 ```python
 grades = ['MA+','PR','MA','PR+','LI']
 for i in range(6):
-  print('Your grade is ' + grades[i]
+  print('Your grade is ' + grades[i])
 ```
 3.  Attempt to run your code...An error should occur.
 4.  In a comment below the code, identify the line number in which the error occured.
@@ -50,3 +50,4 @@ for i in range(4):
 ```
 21.  Attempt to run your code...An error should occur.
 22.  In a comment below the code, describe what happened.
+23.  Save your work and upload it to a new GitHub folder in your portfolio, title `Labs`
