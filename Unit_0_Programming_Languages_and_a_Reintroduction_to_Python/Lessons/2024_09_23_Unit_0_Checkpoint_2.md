@@ -25,4 +25,4 @@ Monday, September 23rd 2024
 
 **HOMEWORK:** 
 
-Checkpoint 1 Reflection
+[Unit 0 Assignment 11 - Checkpoint 1 Reflection](https://github.com/MrJSwotinsky/Python/blob/main/Unit_0_Programming_Languages_and_a_Reintroduction_to_Python/Daily_Assignments/Unit_0_Assignment_11_Due_Tue_Sept_24_U0_CP1_Reflection.md)
