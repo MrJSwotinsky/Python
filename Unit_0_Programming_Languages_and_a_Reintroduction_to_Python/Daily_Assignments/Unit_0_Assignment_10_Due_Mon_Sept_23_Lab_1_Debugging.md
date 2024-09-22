@@ -1,4 +1,4 @@
-# Unit 0, Assignment 9: Lab 1 - Debugging
+# Unit 0, Assignment 10: Lab 1 - Debugging
 Due: Monday, September 23rd 2024
 
 1. Create a new Python file in the portfolio folder on your device titled, `LastNameFirstInitial_Unit_0_Lab_1_Debugging.py`
