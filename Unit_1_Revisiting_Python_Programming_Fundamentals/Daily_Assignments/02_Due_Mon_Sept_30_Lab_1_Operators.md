@@ -1,4 +1,4 @@
-# Unit 1, Assignment 2: Lab 1 - Operations
+# Unit 1, Assignment 2: Lab 1 - Operators
 Due: Monday, September 30th 2024
 
 Create a new python file in your Physical Device > Python Portfolio > Labs folder titled, `LastNameFirstInitial_U1_Lab1_Operations.py`, and complete the following lab:
