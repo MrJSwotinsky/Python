@@ -1,7 +1,7 @@
 # Unit 1, Assignment 1: Written Response 1 - Data Types
 Due: Friday, September 27th 2024
 
-1. Create a new markdown file in your GitHub > Python Portfolio > Written Responses folder titled, `LastNameFirstInitial_U1_WR1_Data_Types.py`.
+1. Create a new markdown file in your GitHub > Python Portfolio > Written Responses folder titled, `LastNameFirstInitial_U1_WR1_Data_Types.md`.
 2. Respond to the following prompts:
     * Identify and define two numeric data types used in Python.
     * Provide several examples of each numeric data type (include diverse examples).
