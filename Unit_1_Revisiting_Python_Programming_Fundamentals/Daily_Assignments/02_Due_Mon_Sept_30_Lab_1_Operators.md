@@ -80,7 +80,7 @@ Create a new python file in your Physical Device > Python Portfolio > Labs folde
 * Repeat the step above several times using diverse examples.
 * In a comment, describe the result that will occur a float and a string are combined using the `\\` operator.
 
-After you have completed this lab, upload your work to your GitHub > Python Portfolio > Written Responses folder.  **Remember to include an appropriate heading, appropriate comments, and commit message.**
+After you have completed this lab, upload your work to your GitHub > Python Portfolio > Labs folder.  **Remember to include an appropriate heading, appropriate comments, and commit message.**
 
 ## Rubric
 
