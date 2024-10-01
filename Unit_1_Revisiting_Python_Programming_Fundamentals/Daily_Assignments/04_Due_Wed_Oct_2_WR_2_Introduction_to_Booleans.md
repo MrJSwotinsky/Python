@@ -4,7 +4,7 @@ Due: Wednesday, October 2nd 2024
 1. Create a new markdown file in your GitHub > Python Portfolio > Written Responses folder titled, `LastNameFirstInitial_U1_WR2_Introduction_to_Booleans.md`.
 2. Respond to the following prompts:
     * How many different boolean values are there?  What are they?
-    * For each boolean value, provide at least two different ways to represent it.
+    * For each boolean value, provide at least two different ways to represent it.  Include diverse examples.
     * The following line of code displays the int `2`.  Explain why.
       ```python
       print(True + True)
