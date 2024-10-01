@@ -13,6 +13,7 @@ Due: Wednesday, October 2nd 2024
       ```python
       print(True / False)
       ```
+    * List 5 relational operators.  Explain what each is.
     * Identify whether or not each of the following values are boolean values.  For each value that is not boolean,  explain why not.
         * 'True'
         * 'true'
@@ -28,6 +29,13 @@ Due: Wednesday, October 2nd 2024
         *  4 == 5
         *  4 = 4
         *  4 == 4
+        *  4 > 5
+        *  5 > 4
+        *  4 >= 5
+        *  5 > 4
+        *  5 >= 4
+        *  4 => 5
+        *  5 => 4
     * In Python, what notation can be used to display the value 999999 in a more visible manner?
     * Write a line of code to display the data type of any data (i.e. How could you display the data type of 15, -1.5, "Hello, World!", True, etc.?)
       
