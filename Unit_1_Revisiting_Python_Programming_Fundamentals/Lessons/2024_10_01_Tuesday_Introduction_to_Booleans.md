@@ -1,5 +1,5 @@
 # Python
-Tuesaday, October 1st 2024
+Tuesday, October 1st 2024
 
 ### Introduction to Booleans
 
