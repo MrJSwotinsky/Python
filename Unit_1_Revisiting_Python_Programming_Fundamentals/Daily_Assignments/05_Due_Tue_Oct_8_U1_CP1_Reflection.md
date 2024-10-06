@@ -1,5 +1,5 @@
 # Unit 1, Assignment 5: Unit 1 Checkpoint 1 Reflection
-Due: Thursday, October 10th 2024
+Due: Tuesday, October 8th 2024
 
 1. Review your Unit 1 Checkpoint 1 results.
 2. Create a new file in your GitHub > Python Portfolio > Reflections folder titled `LastNameFirstInitial_Unit_1_Checkpoint_1_Reflection.md`
