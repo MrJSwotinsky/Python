@@ -2,7 +2,7 @@
 Due: Thursday, October 10th 2024
 
 1. Review your Unit 1 Checkpoint 1 results.
-2. Create a new file in your GitHub > AP CSP Portfolio > Reflections folder titled `LastNameFirstInitial_Unit_1_Checkpoint_1_Reflection.md`
+2. Create a new file in your GitHub > Python Portfolio > Reflections folder titled `LastNameFirstInitial_Unit_1_Checkpoint_1_Reflection.md`
 3. For every question you answered incorrectly, write a short reflection.  To write each reflection...
    * Review your resources (e.g. feedback from AP Classroom, AP daily videos, your own notes, any other resources you have been created or been provided) and consult with your colleagues to make sense of your mistake.
    * Copy/Paste the question prompt.
