@@ -1,4 +1,4 @@
-# Unit 1, Assignment 5: Unit 1 Checkpoint 1 Reflection
+# Unit 1, Assignment 6: Unit 1 Checkpoint 1 Reflection
 Due: Tuesday, October 8th 2024
 
 1. Review your Unit 1 Checkpoint 1 results.
