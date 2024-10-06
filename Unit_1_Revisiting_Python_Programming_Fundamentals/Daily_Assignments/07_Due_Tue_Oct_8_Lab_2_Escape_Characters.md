@@ -1,4 +1,4 @@
-# Unit 1, Assignment 6: Lab 2 - Escape Characters
+# Unit 1, Assignment 7: Lab 2 - Escape Characters
 Due: Tuesday, October 8th 2024
 
 Create a new python file in your Physical Device > Python Portfolio > Labs folder titled, `LastNameFirstInitial_U1_Lab2_Escape_Characters.py`, and complete the following lab:
