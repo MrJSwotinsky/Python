@@ -25,4 +25,4 @@ Wednesday, October 2nd 2024
 
 **HOMEWORK:** 
 
-**Due Next Friday:** [Unit 1 Assignment 07](https://github.com/MrJSwotinsky/Python/blob/main/Unit_1_Revisiting_Python_Programming_Fundamentals/Daily_Assignments/07_Due_Fri_Oct_11_Unit_0_Exam_Reflection.md)<br>
+**Due Next Friday:** [Unit 1 Assignment 05](https://github.com/MrJSwotinsky/Python/blob/main/Unit_1_Revisiting_Python_Programming_Fundamentals/Daily_Assignments/05_Due_Fri_Oct_11_Unit_0_Exam_Reflection.md)<br>
