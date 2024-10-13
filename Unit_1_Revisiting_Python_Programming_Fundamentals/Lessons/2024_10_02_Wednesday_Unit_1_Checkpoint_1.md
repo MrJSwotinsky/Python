@@ -1,4 +1,4 @@
-# AP Computer Science Principles
+# Python
 Wednesday, October 2nd 2024
 
 ### Unit 1 Checkpoint 1
