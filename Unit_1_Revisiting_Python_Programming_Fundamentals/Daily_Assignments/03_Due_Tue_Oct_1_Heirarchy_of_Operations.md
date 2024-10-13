@@ -31,4 +31,4 @@ After you have completed this assignment, scan your work to a single PDF titled 
 
 |Outcome|Mastery+|Proficient|Developing|Limited|Incomplete|
 |---|---|---|---|---|---|
-|**Employability Skills**|I have completed all exercises, shown all work, and addressed all questions thoughtfully.|I have completed most exercises, shown most work, and addressed most questions thoughtfully.|I have completed some exercises, shown some work, and addressed some questions thoughtfully.|I have completed few most exercises, shown little work, and addressed few questions thoughtfully.|I have completed no most exercises, shown no work, or addressed no questions thoughtfully.|
+|**Employability Skills**|I have completed all exercises, shown all work, and addressed all questions thoughtfully.|I have completed most exercises, shown most work, and addressed most questions thoughtfully.|I have completed some exercises, shown some work, and addressed some questions thoughtfully.|I have completed few exercises, shown little work, and addressed few questions thoughtfully.|I have completed no exercises, shown no work, or addressed no questions thoughtfully.|
