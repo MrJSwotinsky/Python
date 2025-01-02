@@ -42,6 +42,9 @@ Tuesday, December 17th 2024
             * Syntax
             * Key-value pairs
             * Iteration with dictionaries
+      * Key Strategies:
+          * Code tracing
+          * Process of elimination 
 3. Summary / Close:
     * Final Questions / Comments
     * Final Reflection Questions (based on live data)
@@ -49,7 +52,7 @@ Tuesday, December 17th 2024
 **HOMEWORK:** <br>
 Leverage your resources (OpenEDG, Code Analysis Practice Sets, Notes, **a study group session with your debugging buddies**, etc.) to prepare for tomorrow's Unit Exam.  
 
-**DIFFERENTIATION:** <br>
+**DIFFERENTIATION STRATEGIES:** <br>
 1.  Provide multiple entry paths by providing students with optional access to resources during Kahoot! (Students may use edube.org, code analysis practice sets, and notes).  Students who need more support may leverage resources to support them in analyzing code to determine correct responses.  Students who need less support may opt to challenge themselves by attempting to analyze code without referring to resources.
 2.  Provide tiered questions allowing students to engage at varying levels of difficulty.
 
@@ -106,6 +109,8 @@ Leverage your resources (OpenEDG, Code Analysis Practice Sets, Notes, **a study 
 >   print(product[1], end = '')
 > ```
 
-3.  Utilize summary data from ***
-5.  Provide tiered questions allowing students to engage at varying levels of difficulty.
+3.  Utilize summary data from Kahoot! as formative assessment to desigin instruction for PCEP exam review in January.
 
+**QUESTIONING AND DISCUSSION STRATEGIES:** <br>
+1.  Engage students in accountable talk by challenging them to justify their own and their peer's responses during game.
+2.  Engage students in small group discussion periodically throughout game using turn and talk.
