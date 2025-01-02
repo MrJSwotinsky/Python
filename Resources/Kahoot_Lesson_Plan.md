@@ -48,3 +48,35 @@ Tuesday, December 17th 2024
    
 **HOMEWORK:** <br>
 Leverage your resources (OpenEDG, Code Analysis Practice Sets, Notes, **a study group session with your debugging buddies**, etc.) to prepare for tomorrow's Unit Exam.  
+
+**DIFFERENTIATION:** <br>
+1.  Provide multiple entry paths by providing students with optional access to resources during Kahoot! (Students may use edube.org, code analysis practice sets, and notes).  Students who need more support may leverage resources to support them in analyzing code to determine correct responses.  Students who need less support may opt to challenge themselves by attempting to analyze code without referring to resources.
+2.  Provide tiered questions allowing students to engage at varying levels of difficulty.
+
+Sample Mild Question/
+
+> Which of the following will be displayed as a result of the code segment below?
+> ```python
+> powers = [1, 2, 4, 8, 16]
+> print(powers[2:4])
+> ```
+
+Sample Medium Question/
+
+> Write a line of code to add 95 gloves to `inv`.
+
+Sample Spicy Question/
+
+> What is the expected output of the following code?
+> ```python
+> bools = (False, True, False)
+> inner = bools[:1]
+> count = 0
+> for entry in inner[-1:]:
+>   if entry:
+>     count += 1
+> print(count)
+> ```
+
+3.  
+
