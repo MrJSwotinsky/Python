@@ -53,7 +53,7 @@ Leverage your resources (OpenEDG, Code Analysis Practice Sets, Notes, **a study 
 1.  Provide multiple entry paths by providing students with optional access to resources during Kahoot! (Students may use edube.org, code analysis practice sets, and notes).  Students who need more support may leverage resources to support them in analyzing code to determine correct responses.  Students who need less support may opt to challenge themselves by attempting to analyze code without referring to resources.
 2.  Provide tiered questions allowing students to engage at varying levels of difficulty.
 
-Sample Mild Question/
+**Sample Mild Question/**
 
 > Which of the following will be displayed as a result of the code segment below?
 > ```python
@@ -61,11 +61,11 @@ Sample Mild Question/
 > print(powers[2:4])
 > ```
 
-Sample Medium Question/
+**Sample Medium Question/**
 
 > Write a line of code to add 95 gloves to `inv`.
 
-Sample Spicy Question/
+**Sample Spicy Question/**
 
 > What is the expected output of the following code?
 > ```python
@@ -78,5 +78,34 @@ Sample Spicy Question/
 > print(count)
 > ```
 
-3.  
+**ASSESSMENT STRATEGIES:** <br>
+1.  Leverage immediate feedback from Kahoot! to pivot as needed during game.
+2.  Utilize call and response questions to check for understanding and pivot as needed during game.
+
+**Example 1/**
+> What will happen if we try to reference a single index in a list that is out of range?<br>
+> What will happen if we try to reference an index that is out of range in a slice?
+
+**Example 2/**
+> Why **can't** .append() be used to add an element to a tuple?<br>
+> Why **can** we concatenate tuples?
+
+**Example 3/**
+> Explain the key difference between the following two code segments:
+> ```python
+> inventory = {'hats':100, 'gloves':95, 'scarves':220}
+>
+> for product in inventory.keys():
+>   print(product[1], end = '')
+> ```
+>
+>  ```python
+> inventory = {'hats':100, 'gloves':95, 'scarves':220}
+>
+> for product in inventory.items():
+>   print(product[1], end = '')
+> ```
+
+3.  Utilize summary data from ***
+5.  Provide tiered questions allowing students to engage at varying levels of difficulty.
 
