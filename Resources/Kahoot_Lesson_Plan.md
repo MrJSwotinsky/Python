@@ -26,8 +26,22 @@ Tuesday, December 17th 2024
     *  Be prepared to justify your reasoning.
     *  Be prepared to engage in small group discussions.
     *  Key Concepts:
-        * wqegqweg
-        * qewgwqeg
+        * Lists:
+            * Syntax
+            * Referencing Elements 
+            * Slices
+            * Negative indices
+            * Out of range exceptions
+            * Copies vs. Pointers
+            * `.append()`, `.remove()`, `.insert()`, and `del`
+        * Tuples:
+            * Syntax
+            * Characteristics (e.g. tuples are immutable)
+            * Iteration with tuples
+        * Dictionaries:
+            * Syntax
+            * Key-value pairs
+            * Iteration with dictionaries
 3. Summary / Close:
     * Final Questions / Comments
     * Final Reflection Questions (based on live data)
